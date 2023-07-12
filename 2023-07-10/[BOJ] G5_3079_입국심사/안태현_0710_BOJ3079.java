@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class 안태현_0710_BOJ3079 {
 
     public static void main(String[] args) {
 
